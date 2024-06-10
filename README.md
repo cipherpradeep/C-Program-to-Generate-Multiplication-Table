@@ -1,1 +1,0 @@
-# C-Program-to-Generate-Multiplication-Table
